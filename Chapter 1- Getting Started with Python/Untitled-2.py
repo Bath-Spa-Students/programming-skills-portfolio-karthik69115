@@ -1,0 +1,8 @@
+print("name",":karthikeyan")
+name=input("enter name")
+print("university name",":bathspa university")
+universityname=input("enter name")
+print("age",":18")
+age=input("enter age")
+print("passion",":to become car drifter")
+passion=input("enter passion")
