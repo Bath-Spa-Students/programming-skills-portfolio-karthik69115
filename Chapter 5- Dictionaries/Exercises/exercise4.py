@@ -1,5 +1,6 @@
 #Q.4 Make a dictionary containing three major rivers and the country each river runs through. One key-value pair might be 'nile': 'egypt'.
-
+# It uses a 'for' loop to iterate through the key-value pairs in the 'rivers' dictionary and prints sentences describing each river's location.
+# After that, it prints a list of river names and a list of countries included in the dataset.
 rivers = {
     'nile':'Egypt',
     'Yukon River':'United States',
