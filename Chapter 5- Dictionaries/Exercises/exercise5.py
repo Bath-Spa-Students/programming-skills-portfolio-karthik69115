@@ -1,3 +1,6 @@
+# This code creates an empty list called 'pets' to store information about different pets.
+# Finally, it uses nested 'for' loops to iterate through the 'pets' list and print detailed information about each pet, including their attributes.
+# It then defines dictionaries ('pet') for three different pets, each with attributes like animal type, name, owner, weight, and what the pet eats.
 pets = []
 pet={
     'animaltype': 'black snapper',
