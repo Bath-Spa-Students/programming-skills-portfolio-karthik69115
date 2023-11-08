@@ -1,4 +1,6 @@
 #Q.2 A Python dictionary can be used to model an actual dictionary. However, to avoid confusion, let’s call it a glossary.
+# This code defines a dictionary called 'glossary' containing definitions for several programming terms.
+# It then retrieves and prints the definitions for specific words from the 'glossary' dictionary using a loop.
 glossery={
     'dictionary': "it is a large collection of keyvalues in pairs.",
     'comment': 'it is the note in the program which the Python interpreter does not look after.',
